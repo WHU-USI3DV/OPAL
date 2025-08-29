@@ -2,6 +2,9 @@
 <a href="https://whu-usi3dv.github.io/OPAL/" target="_blank">OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion</a>
 </h2>
 
+<span style="color:red">**Code, pre-trained models, and the accompanying dataset are available at [kang-1-2-3/OPAL](https://github.com/kang-1-2-3/OPAL). This repository is no longer maintained.**</span>
+
+
 This is the official PyTorch implementation of the following publication:
 
 > **OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**<br/>
